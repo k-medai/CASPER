@@ -14,8 +14,9 @@ and makes a statistical decision.
 ### compile
 casper is run on LINUX environment.
 You can compile casper by cloning our git repository and go to the downloaded directory,
-then just put make
-
+then just put make.
+If compile is normally processed, you can see the binary output casper.
+Use the casper.
 
 
 <p>
