@@ -11,6 +11,13 @@ is significant, CASPER relies on the quality scores for correction.
 If not, CASPER instead examines k-mer-based contexts around the mismatch
 and makes a statistical decision.
 
+### compile
+casper is run on LINUX environment.
+You can compile casper by cloning our git repository and go to the downloaded directory,
+then just put make
+
+
+
 <p>
 
 ### Usage
